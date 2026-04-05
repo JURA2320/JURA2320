@@ -18,3 +18,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-ori
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
           
 <img align="left" alt='AWS' width='30px' style='padding-right:10px;' src="./logo.svg" />
+#
+
+#
+## Stats
+![JURA GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=JURA2320&show_icons=true&theme=dark#gh-dark-mode-only)
