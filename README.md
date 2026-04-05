@@ -1,4 +1,4 @@
-## JURA 👋
+## JURA 🥷🏼
 
 # About me
 
