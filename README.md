@@ -1,16 +1,20 @@
-## Hi there 👋
+## JURA 👋
 
-<!--
-**JURA2320/JURA2320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
 
-Here are some ideas to get you started:
+I am an engineer with an interest in security and networking. I currently work with various Palo Alto Networks solutions and have extensive experience with their technologies. I plan to further develop this profile and create repositories related to software or applications that could be used in enterprise environments or in our own labs related to these technologies. In addition, I have expertise in various aspects of IT infrastructure both on-premises and cloud-based—as well as programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Languages and Tools
+<img align="left" alt='AWS' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+
+<img align="left" alt='AZURE' width='30px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+
+<img align="left" alt='AWS' width='30px' style='padding-right:10px;' 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+
+<img align="left" alt='AWS' width='30px' style='padding-right:10px;' 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+          
+<img align="left" alt='AWS' width='30px' style='padding-right:10px;' src="./logo.svg" />
